@@ -48,3 +48,23 @@ Workshop on Blender for digital fabrication
         Applying learned skills to a comprehensive project
         Review and feedback session
         Discussion on the future of digital fabrication and Blender
+
+
+## Resources
+
+### Drawing
+
+https://machinicprotocols.com/
+https://drawingbots.net/resources
+https://drawingbots.net/knowledge/tools
+
+###  CAM
+
+https://blendercam.com/
+https://cnc.js.org/ 
+
+### Donwload
+
+https://github.com/alessandro-zomparelli/tissue
+https://github.com/luigipacheco/gcode-exporter 
+
