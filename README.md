@@ -3,6 +3,13 @@ Workshop on Blender for digital fabrication
 
 ## Curriculum Outline:
 
+### Download
+
+https://www.blender.org/ 
+https://github.com/alessandro-zomparelli/tissue
+https://github.com/luigipacheco/gcode-exporter 
+
+
 ### Day 1: Introduction to Blender for Digital Fabrication
 
     Session 1: Overview of Blender’s Interface
@@ -52,19 +59,20 @@ Workshop on Blender for digital fabrication
 
 ## Resources
 
+https://quickref.me/blender.html
+
 ### Drawing
 
-https://machinicprotocols.com/
-https://drawingbots.net/resources
-https://drawingbots.net/knowledge/tools
+- https://machinicprotocols.com/
+- https://drawingbots.net/resources
+- https://drawingbots.net/knowledge/tools
 
 ###  CAM
 
-https://blendercam.com/
-https://cnc.js.org/ 
+- https://blendercam.com/
+- https://cnc.js.org/ 
 
-### Donwload
+### References:
+- https://wiki.freecad.org/Constructive_solid_geometry
 
-https://github.com/alessandro-zomparelli/tissue
-https://github.com/luigipacheco/gcode-exporter 
 
