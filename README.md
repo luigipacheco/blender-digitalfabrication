@@ -8,6 +8,7 @@ Workshop on Blender for digital fabrication
 https://www.blender.org/ 
 https://github.com/alessandro-zomparelli/tissue
 https://github.com/luigipacheco/gcode-exporter 
+https://github.com/cncjs/cncjs/releases 
 
 
 ### Day 1: Introduction to Blender for Digital Fabrication
