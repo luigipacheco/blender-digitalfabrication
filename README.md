@@ -9,6 +9,7 @@ https://www.blender.org/
 https://github.com/alessandro-zomparelli/tissue
 https://github.com/luigipacheco/gcode-exporter 
 https://github.com/cncjs/cncjs/releases 
+https://github.com/luigipacheco/blender-python-snippets
 
 
 ### Day 1: Introduction to Blender for Digital Fabrication
